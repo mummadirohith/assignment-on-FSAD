@@ -1,0 +1,20 @@
+.head{
+    height: 80px;
+    width: 90%;
+    background-color: paleturquoise;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+}
+.head a{
+    text-decoration: none;
+    color:pink;
+    font-size: 20px;
+}
